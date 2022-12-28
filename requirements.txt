@@ -1,0 +1,6 @@
+Telethon==1.23.0
+
+I have created telegram app to get api and hash. 
+I have installed telethon package with "pip3 install telethon" in eclipse terminal
+and ran the ChannelMessages.py in the terminal.
+finally i got the json file.
