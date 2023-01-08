@@ -11,7 +11,7 @@ To perform this data analysis, we need some programs and packages to be installe
 + telethon
 + a mobile number
 + Telegram API account
-++ Telegram API ID
-++ Telegram API hash
+  ++ Telegram API ID
+  ++ Telegram API hash
 
 
