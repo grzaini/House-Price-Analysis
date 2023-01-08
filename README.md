@@ -7,11 +7,11 @@ In this project, the channel data will be extracted by using Pyton script and an
 ## Requirements
 
 To perform this data analysis, we need some programs and packages to be installed on the system and run the codes.
-+ Python
-+ telethon
-+ a mobile number
-+ Telegram API account
-  ++ Telegram API ID
-  ++ Telegram API hash
++ Python: to run the ChannelMessages.py in the terminal
++ telethon: to use the connection and get the Telegram data
++ a mobile number: when we run the Python file, it needs a mobile number to send a code to the mobile number and give the code to the execution process to be done.
++ Telegram API account: obiuesly we need a Telegram account to get the data.
+  - Telegram API ID: which is configured in config.ini file
+  - Telegram API hash: which is configured in config.ini file
 
-
+When the action successfully done, the data in a json file will be extracted and downloaded in the current folder. The json file then will be red and analysed.
