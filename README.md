@@ -16,3 +16,6 @@ To perform this data analysis, we need some programs and packages to be installe
 
 After all of these are successfully done, the data in a json file is extracted and downloaded in the current folder. The json file then is red and analyzed in the Jupyter Notebook in my Kaggle account [here](https://www.kaggle.com/code/grzaini/lang-data/edit/run/139341457).
 
+Finally, in this work I have shown how much the houses’ prices are in both cities or individuals. E.g. The following graph shows houses’ princes in Kabul and Mazar cities.
+[Graph 1](images/house_announce.png)
+
